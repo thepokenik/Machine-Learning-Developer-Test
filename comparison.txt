@@ -1,0 +1,11 @@
+Cosine Distance
+Metric       Value
+Accuracy  0.715625
+F1 Score  0.710109
+ROC AUC   0.920775
+
+Euclidean Distance
+Metric       Value
+Accuracy  0.696875
+F1 Score  0.6894
+ROC AUC   0.913005

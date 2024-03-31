@@ -1,0 +1,5 @@
+# Ignore Python cache files
+__pycache__/
+*.pytest_cache/
+*.pyc
+.ipynb_checkpoints/
