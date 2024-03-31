@@ -14,3 +14,8 @@ You can run the script by executing it with Python:
 
 **View the Output**: 
 Once the script finishes running, you should see the t-SNE plot and the ROC curves displayed. Additionally, the script will generate a comparison.txt file containing the comparison metrics between cosine and Euclidean distances.
+
+**Bonus(Unit Test)**: 
+You can run the unit test script by executing it with Python:
+
+`python unit_test.py`
